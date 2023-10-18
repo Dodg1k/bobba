@@ -10,7 +10,7 @@ namespace ConsoleApp1 {
     Console.WriteLine (OutputFormat,x,y);
    }
   }
-  static void Main (string[] args) {
+  static void radsagdfdfb (string[] args) {
    double sin_ (double x) { return Math.Sin (x); }
    double cos_ (double x) { return Math.Cos (x); }
 
